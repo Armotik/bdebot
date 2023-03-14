@@ -1,0 +1,27 @@
+{
+  "name": "bdebot",
+  "version": "1.0.0",
+  "description": "Bot Discord du BDE LRU",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Armotik/bdebot.git"
+  },
+  "author": "Armotik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Armotik/bdebot/issues"
+  },
+  "homepage": "https://github.com/Armotik/bdebot#readme",
+  "dependencies": {
+    "@timetreeapp/web-api": "^3.0.1",
+    "discord.js": "^14.7.1",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.35.0"
+  }
+}
