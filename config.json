@@ -40,10 +40,6 @@
         }
     },
     "apiMembers":{
-        "aBvtLn211YrS,5923382786877451":{
-            "nom": "Emma",
-            "discordId": "827134914545582109"
-        },
         "aBvtLn211YrS,4379576822558145":{
             "nom": "Alexandre",
             "discordId": "322389032313159698"
@@ -81,6 +77,10 @@
         "aBvtLn211YrS,2761635148853753":{
             "nom":"Tangui",
             "discordId":"285474691500474369"
+        },
+        "aBvtLn211YrS,5923382786877451":{
+            "nom": "Emma",
+            "discordId": "827134914545582109"
         }
     }
 }
